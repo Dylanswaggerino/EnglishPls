@@ -1,0 +1,13 @@
+c:\users\goofe\onedrive\documenten\visual studio 2013\Projects\EnglishPls\EnglishPls\bin\Debug\EnglishPls.dll
+c:\users\goofe\onedrive\documenten\visual studio 2013\Projects\EnglishPls\EnglishPls\bin\Debug\EnglishPls.pdb
+c:\users\goofe\onedrive\documenten\visual studio 2013\Projects\EnglishPls\EnglishPls\bin\Debug\Newtonsoft.Json.dll
+c:\users\goofe\onedrive\documenten\visual studio 2013\Projects\EnglishPls\EnglishPls\bin\Debug\OTAPI.dll
+c:\users\goofe\onedrive\documenten\visual studio 2013\Projects\EnglishPls\EnglishPls\bin\Debug\TerrariaServer.exe
+c:\users\goofe\onedrive\documenten\visual studio 2013\Projects\EnglishPls\EnglishPls\bin\Debug\TShockAPI.dll
+c:\users\goofe\onedrive\documenten\visual studio 2013\Projects\EnglishPls\EnglishPls\bin\Debug\HttpServer.dll
+c:\users\goofe\onedrive\documenten\visual studio 2013\Projects\EnglishPls\EnglishPls\bin\Debug\MySql.Data.dll
+c:\users\goofe\onedrive\documenten\visual studio 2013\Projects\EnglishPls\EnglishPls\bin\Debug\BCrypt.Net.dll
+c:\users\goofe\onedrive\documenten\visual studio 2013\Projects\EnglishPls\EnglishPls\bin\Debug\Mono.Data.Sqlite.dll
+c:\users\goofe\onedrive\documenten\visual studio 2013\Projects\EnglishPls\EnglishPls\obj\Debug\EnglishPls.csprojResolveAssemblyReference.cache
+c:\users\goofe\onedrive\documenten\visual studio 2013\Projects\EnglishPls\EnglishPls\obj\Debug\EnglishPls.dll
+c:\users\goofe\onedrive\documenten\visual studio 2013\Projects\EnglishPls\EnglishPls\obj\Debug\EnglishPls.pdb
